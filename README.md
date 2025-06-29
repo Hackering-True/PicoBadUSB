@@ -44,10 +44,8 @@ You can send payloads like this from the UI.
 - Inspired by Hak5 Rubber Ducky and public repo
  
 -
-<video width="640" height="360" controls>
-  <source src="static/user.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="https://github.com/Hackering-True/PicoBadUSB/tree/main/static/user.mp4" controls width="600"></video>
+
 
 
 ## 👨‍💻 Author
