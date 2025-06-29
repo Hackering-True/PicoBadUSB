@@ -1,0 +1,13 @@
+# Ignore OS and system files
+.Trash-1000
+.Trashes
+.fseventsd/
+.metadata_never_index
+
+# Python cache
+__pycache__/
+*.pyc
+
+# General
+*.log
+.DS_Store
