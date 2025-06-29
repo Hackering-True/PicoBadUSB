@@ -43,8 +43,7 @@ You can send payloads like this from the UI.
 
 - Inspired by Hak5 Rubber Ducky and public repo
  
--
-<video src="https://github.com/Hackering-True/PicoBadUSB/tree/main/static/user.mp4" controls width="600"></video>
+<video src="https://raw.githubusercontent.com/Hackering-True/PicoBadUSB/main/static/user.mp4" controls width="600"></video>
 
 
 
