@@ -44,7 +44,8 @@ You can send payloads like this from the UI.
 - Inspired by Hak5 Rubber Ducky and public repo
  
 
-<video src="https://github.com/Hackering-True/PicoBadUSB/raw/refs/heads/main/static/user.mp4"></video>
+[▶️ Watch the demo video](https://github.com/Hackering-True/PicoBadUSB/raw/main/static/user.mp4)
+
 
 
 ## 👨‍💻 Author
